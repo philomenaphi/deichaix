@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shahteethe.gkiwi.com/sitemap.xml
